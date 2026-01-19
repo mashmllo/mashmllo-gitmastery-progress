@@ -401,5 +401,14 @@
       "Reset the repository using \"gitmastery progress reset\" and start again"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1768834432.352884,
+    "completed_at": 1768834435.900849,
+    "comments": [
+      "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
+    ],
+    "status": "Completed"
   }
 ]
